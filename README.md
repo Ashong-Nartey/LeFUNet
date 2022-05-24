@@ -21,4 +21,4 @@ natsort==7.1.1
 2. Dataset 2:- Automatic segmentation of mandible in panoramic x-ray by [H. Abdi et al.](https://data.mendeley.com/datasets/hxt48yk462/1)
 
 
-work in progress: code to be released soon. 
+work in progress: Full code to be released soon. 
