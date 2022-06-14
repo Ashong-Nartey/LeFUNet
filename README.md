@@ -1,5 +1,5 @@
 # LeFUNet
-This is an implementation of the paper "LeFUNet: UNet with Learnable Feature Connections for Teeth Identification and Segmentation in Dental Panoramic X-ray Images" under review in IEEE TMI
+This is an implementation of the paper "LeFUNet: UNet with Learnable Feature Connections for Teeth Identification and Segmentation in Dental Panoramic X-ray Images" under review
 
 **Requirements**
 
